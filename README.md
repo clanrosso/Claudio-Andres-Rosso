@@ -6,7 +6,7 @@
                   Linkedin
                   </a>
                   
-<a align='left' href="https://claudiorosso.vercel.app/">
+<a href="https://claudiorosso.vercel.app/">
                   Portafolio
                   </a>
  
