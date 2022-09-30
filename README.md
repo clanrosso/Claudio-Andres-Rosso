@@ -33,7 +33,7 @@
   <a href="https://experienceviveargentina.vercel.app/">
                   Sitio web
                   </a>
-    <br/>
+   
      <br />
                   <a
                     href="https://github.com/ViveargentinaGIT/ViveargentinaApp.git"
@@ -47,11 +47,12 @@
                   >
                     Repositorio Backend </a
                   ><br />
+     <br/>
     
     
- <img align='center' src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg"
+ <p><img align='center' src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg"
                   alt="..."
-                />
+                /><p/>
     <br/>
   <a
                     href="https://www.google.com.ar"
