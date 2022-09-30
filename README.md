@@ -2,12 +2,12 @@
     <img src='https://res.cloudinary.com/dtrsxymgq/image/upload/v1664511321/porfolio/WhatsApp_Image_2022-09-30_at_00.48.18_1_b58itx.jpg'/>
 </p>
 
-<h2 align='center'>Fullstack Developer (con orientación backend) con probado manejo de JavaScript, React-Redux, Node, Express, Sequalize y PostgreSQL.</h2>
+<h2 align='center'>Fullstack Developer con probado manejo de JavaScript, React-Redux, Node, Express, Sequalize y PostgreSQL.</h2>
 
 <h2 align='center'>Estoy seguro que desempeñándome en el lugar correcto, aparecerá esa gran sinergia que permitirá a la organización obtener lo mejor de mi, y que me posibilitará crecer como profesional.</h2>
 
 <h3 align='center'><a align='center' href="https://www.linkedin.com/in/claudioandresrosso/">Linkedin</a></h3>
-<br/>
+
 <h3 align='center'><a align='center' href="https://claudiorosso.vercel.app/">Portfolio</a></h3>
 
 <p align='center'>
@@ -33,7 +33,7 @@
 <h3 align='center'><a href="https://github.com/ViveargentinaGIT/ViveargentinaBack.git">Repositorio Backend </a></h3>
 
 <p align='center'>    
-<img align='center' src="https://res.cloudinary.com/dtrsxymgq/image/upload/c_scale,h_600,w_1200/v1664413879/porfolio/pexels-abhishek-rana-4188296_oaqnog.jpg"/>
+<img align='center' src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.53.05_pmyk3t.jpg"/>
 </p>
 
 <h3 align='center'><a href="https://www.google.com.ar">Sitio web</a></h3>
