@@ -24,8 +24,10 @@ Tuve personal a cargo y participé en capacitación de nuevo personal. Ademas te
   <a
                     href="https://experienceviveargentina.vercel.app/"
                   >
-                    Sitio web
+                  <h3>Sitio web<h3>
                   </a>
+    <br/>
+     <br/>
     
     
  <img src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664512573/porfolio/WhatsApp_Image_2022-09-30_at_01.35.02_pq4elu.jpg"
@@ -34,5 +36,5 @@ Tuve personal a cargo y participé en capacitación de nuevo personal. Ademas te
   <a
                     href="https://www.google.com.ar"
                   >
-                    Sitio web
+                    <h3>Sitio web<h3>
                   </a>
