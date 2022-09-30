@@ -5,7 +5,8 @@
 <a href="https://www.linkedin.com/in/claudioandresrosso/">
                   Linkedin
                   </a>
-                  
+                  <br/>
+                  <br/>
 <a href="https://claudiorosso.vercel.app/">
                   Portafolio
                   </a>
