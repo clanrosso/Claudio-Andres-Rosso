@@ -29,6 +29,7 @@
  <img align='center' src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg"
                   alt="..."
                 />
+    <br/>
   <a href="https://experienceviveargentina.vercel.app/">
                   Sitio web
                   </a>
@@ -51,6 +52,7 @@
  <img align='center' src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg"
                   alt="..."
                 />
+    <br/>
   <a
                     href="https://www.google.com.ar"
                   >
