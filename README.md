@@ -2,21 +2,21 @@
     <img src='https://res.cloudinary.com/dtrsxymgq/image/upload/v1664511321/porfolio/WhatsApp_Image_2022-09-30_at_00.48.18_1_b58itx.jpg'</img>
 </p>
 
-<h1>Fullstack Developer (con orientación backend) con probado manejo de JavaScript, React-Redux, Node, Express, Sequalize y PostgreSQL.<h1/>
+<h2 align='center'>Fullstack Developer (con orientación backend) con probado manejo de JavaScript, React-Redux, Node, Express, Sequalize y PostgreSQL.<h2/>
 
-<h1>Estoy seguro que desempeñándome en el lugar correcto, aparecerá esa gran sinergia que permitirá a la organización obtener lo mejor de mi, y que me posibilitará crecer como profesional.<h1/>
+<h2 align='center'>Estoy seguro que desempeñándome en el lugar correcto, aparecerá esa gran sinergia que permitirá a la organización obtener lo mejor de mi, y que me posibilitará crecer como profesional.<h2/>
 
-<a href="https://www.linkedin.com/in/claudioandresrosso/">
+<a align='center' href="https://www.linkedin.com/in/claudioandresrosso/">
                   Linkedin
                   </a>
                   <br/>
                   <br/>
-<a href="https://claudiorosso.vercel.app/">
+<a align='center' href="https://claudiorosso.vercel.app/">
                   Portafolio
                   </a>
  
 
-<p align='left'>
+<p align='center'>
     <img src='https://res.cloudinary.com/dtrsxymgq/image/upload/v1664511321/porfolio/WhatsApp_Image_2022-09-30_at_00.46.28_ijsrfr.jpg'</img>
 </p>
 
@@ -26,17 +26,29 @@
 
 
 <h1 align='center'>Proyectos<h1>
- <img src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg"
+ <img align='center' src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg"
                   alt="..."
                 />
   <a href="https://experienceviveargentina.vercel.app/">
                   Sitio web
                   </a>
     <br/>
-     <br/>
+     <br />
+                  <a
+                    href="https://github.com/ViveargentinaGIT/ViveargentinaApp.git"
+                    class="item-intro text-muted"
+                  >
+                    Repositorio Frontend </a
+                  ><br />
+                  <a
+                    href="https://github.com/ViveargentinaGIT/ViveargentinaBack.git"
+                    class="item-intro text-muted"
+                  >
+                    Repositorio Backend </a
+                  ><br />
     
     
- <img src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg"
+ <img align='center' src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg"
                   alt="..."
                 />
   <a
@@ -44,3 +56,11 @@
                   >
                     Sitio web
                   </a>
+    <br />
+                  <a
+                    href="https://github.com/clanrosso/The-Amazing-Pokeworld.git"
+                    class="item-intro text-muted"
+                  >
+                    Repositorio </a
+                  ><br />
+                  <br />
