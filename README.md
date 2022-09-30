@@ -32,13 +32,13 @@
 </p> 
         
 
-    <br/>
+   
     
   <a href="https://experienceviveargentina.vercel.app/">
                   Sitio web
                   </a>
    
-     <br />
+     <br>
                   <a
                     href="https://github.com/ViveargentinaGIT/ViveargentinaApp.git"
                    
@@ -51,7 +51,7 @@
                   >
                     Repositorio Backend </a
                   ><br />
-     <br/>
+     </br>
    
                                                  
 <p align='center'>
