@@ -27,11 +27,11 @@
 
 <h1 align='center'>Proyectos<h1>
     
-    <div align='center'>
+   <p align='center'>
+    <img src='center' src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg'</img>
+</p> 
         
- <img align='center' src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg"
-                  alt="..."
-                />
+
     <br/>
     
   <a href="https://experienceviveargentina.vercel.app/">
@@ -52,11 +52,13 @@
                     Repositorio Backend </a
                   ><br />
      <br/>
-    </div>
+   
+                                                 
+<p align='center'>
+    <img src='center' src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg"</img>
+</p> 
     
- <img align='center' src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg"
-                  alt="..."
-                />
+
     <br/>
   <a
                     href="https://www.google.com.ar"
