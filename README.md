@@ -3,11 +3,11 @@
 </p>
 
 <a href="https://www.linkedin.com/in/claudioandresrosso/">
-                  <h3>Linkedin</h3>
+                  Linkedin
                   </a>
                   
 <a href="https://claudiorosso.vercel.app/">
-                  <h3>Portafolio</h3>
+                  <p>Portafolio</p>
                   </a>
 
 
