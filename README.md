@@ -17,8 +17,8 @@ Tuve personal a cargo y participé en capacitación de nuevo personal. Ademas te
 </p>
 
 
-<h1>Experience vive Argentina<h1>
- <img src="https://res.cloudinary.com/dtrsxymgq/image/upload/c_scale,h_515,w_1029/v1664413879/porfolio/WhatsApp_Image_2022-09-28_at_22.09.44_zurdao.jpg"
+<h1>Proyectos<h1>
+ <img src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664512573/porfolio/WhatsApp_Image_2022-09-30_at_01.34.20_n87kfy.jpg"
                   alt="..."
                 />
   <a
@@ -27,8 +27,8 @@ Tuve personal a cargo y participé en capacitación de nuevo personal. Ademas te
                     Sitio web
                   </a>
     
-    <h1>The Amazing Pokeworld<h1>
- <img src="https://res.cloudinary.com/dtrsxymgq/image/upload/c_scale,h_515,w_1029/v1664413879/porfolio/pexels-abhishek-rana-4188296_oaqnog.jpg"
+    
+ <img src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664512573/porfolio/WhatsApp_Image_2022-09-30_at_01.35.02_pq4elu.jpg"
                   alt="..."
                 />
   <a
