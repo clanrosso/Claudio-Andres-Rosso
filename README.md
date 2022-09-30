@@ -28,7 +28,7 @@
 <h3 align='center'>Proyectos</h3>
     
    <p align='center'>
-    <img src='center' src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg'</img>
+    <img src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg'</img>
 </p> 
         
 
@@ -55,7 +55,7 @@
    
                                                  
 <p align='center'>
-    <img src='center' src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg"</img>
+    <img src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg"</img>
 </p> 
     
 
