@@ -27,21 +27,14 @@
 
 <h3 align='center'>Proyectos</h3>
     
-   
-    <img src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg'/>
+<img src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg"/>
 
-        
-  <a href="https://experienceviveargentina.vercel.app/">
+<a href="https://experienceviveargentina.vercel.app/">
                   Sitio web
                   </a>
    
-    
-                  <a
-                    href="https://github.com/ViveargentinaGIT/ViveargentinaApp.git"
-                   
-                  >
-                    Repositorio Frontend </a
-                  >
+<a href="https://github.com/ViveargentinaGIT/ViveargentinaApp.git" >
+                    Repositorio Frontend </a>
                   <a
                     href="https://github.com/ViveargentinaGIT/ViveargentinaBack.git"
                    
@@ -51,8 +44,7 @@
     
    
                                                  
-
-    <img src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg"</img>
+<img src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.52.29_hiaehb.jpg"</img>
 
     
 
