@@ -41,13 +41,13 @@
      <br />
                   <a
                     href="https://github.com/ViveargentinaGIT/ViveargentinaApp.git"
-                    class="item-intro text-muted"
+                   
                   >
                     Repositorio Frontend </a
                   ><br />
                   <a
                     href="https://github.com/ViveargentinaGIT/ViveargentinaBack.git"
-                    class="item-intro text-muted"
+                   
                   >
                     Repositorio Backend </a
                   ><br />
@@ -68,7 +68,7 @@
     <br />
                   <a
                     href="https://github.com/clanrosso/The-Amazing-Pokeworld.git"
-                    class="item-intro text-muted"
+                   
                   >
                     Repositorio </a
                   ><br />
