@@ -38,20 +38,20 @@
                   Sitio web
                   </a>
    
-     <br>
+    
                   <a
                     href="https://github.com/ViveargentinaGIT/ViveargentinaApp.git"
                    
                   >
                     Repositorio Frontend </a
-                  ><br />
+                  >
                   <a
                     href="https://github.com/ViveargentinaGIT/ViveargentinaBack.git"
                    
                   >
                     Repositorio Backend </a
-                  ><br />
-     </br>
+                  >
+    
    
                                                  
 <p align='center'>
@@ -59,17 +59,17 @@
 </p> 
     
 
-    <br/>
+    
   <a
                     href="https://www.google.com.ar"
                   >
                     Sitio web
                   </a>
-    <br />
+    
                   <a
                     href="https://github.com/clanrosso/The-Amazing-Pokeworld.git"
                    
                   >
                     Repositorio </a
-                  ><br />
+                  >
                  
