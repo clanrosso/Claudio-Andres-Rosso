@@ -1,5 +1,5 @@
 <p align='left'>
-    <img src='https://res.cloudinary.com/dtrsxymgq/image/upload/v1664511321/porfolio/WhatsApp_Image_2022-09-30_at_00.48.18_1_b58itx.jpg'/>
+    <img src='https://res.cloudinary.com/dtrsxymgq/image/upload/v1664511321/porfolio/github/WhatsApp_Image_2022-09-30_at_00.48.18_1_b58itx.jpg'/>
 </p>
 
 <h2 align='center'>Fullstack Developer con probado manejo de JavaScript, React-Redux, Node, Express, Sequalize y PostgreSQL.</h2>
