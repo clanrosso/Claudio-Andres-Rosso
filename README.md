@@ -33,9 +33,9 @@
 <h3 align='center'><a href="https://github.com/ViveargentinaGIT/ViveargentinaBack.git">Repositorio Backend </a></h3>
 
 <p align='center'>    
-<img align='center' src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1664553332/porfolio/WhatsApp_Image_2022-09-30_at_12.53.05_pmyk3t.jpg"/>
+<img align='center' src="https://res.cloudinary.com/dtrsxymgq/image/upload/v1665117588/porfolio/github/WhatsApp_Image_2022-10-07_at_01.39.23_wutjfv.jpg"/>
 </p>
 
-<h3 align='center'><a href="https://www.google.com.ar">Sitio web</a></h3>
+<h3 align='center'><a href="https://the-amazing-pokeworld.vercel.app/">Sitio web</a></h3>
 
 <h3 align='center'><a href="https://github.com/clanrosso/The-Amazing-Pokeworld.git">Repositorio</a></h3>
